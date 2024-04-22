@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="app">
       <div className="flex m-auto flex-col items-center max-w-[400px] w-[40%] pt-[20vh]">
-        <SearchInput setResults={setResults} setInputText={setInputText} /> sdc
+        <SearchInput setResults={setResults} setInputText={setInputText} /> 
       </div>
     </div>
   );
